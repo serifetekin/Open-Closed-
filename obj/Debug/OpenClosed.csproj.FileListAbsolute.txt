@@ -1,0 +1,13 @@
+C:\WEB SERVİS PROJE\OpenClosed\bin\Debug\OpenClosed.exe.config
+C:\WEB SERVİS PROJE\OpenClosed\bin\Debug\OpenClosed.exe
+C:\WEB SERVİS PROJE\OpenClosed\bin\Debug\OpenClosed.pdb
+C:\WEB SERVİS PROJE\OpenClosed\obj\Debug\OpenClosed.csprojAssemblyReference.cache
+C:\WEB SERVİS PROJE\OpenClosed\obj\Debug\OpenClosed.exe
+C:\WEB SERVİS PROJE\OpenClosed\obj\Debug\OpenClosed.pdb
+C:\Users\Serife\Desktop\SOLID\OpenClosed\obj\Debug\OpenClosed.csprojAssemblyReference.cache
+C:\Users\Serife\Desktop\SOLID\OpenClosed\obj\Debug\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Serife\Desktop\SOLID\OpenClosed\obj\Debug\OpenClosed.exe
+C:\Users\Serife\Desktop\SOLID\OpenClosed\obj\Debug\OpenClosed.pdb
+C:\Users\Serife\Desktop\SOLID\OpenClosed\bin\Debug\OpenClosed.exe.config
+C:\Users\Serife\Desktop\SOLID\OpenClosed\bin\Debug\OpenClosed.exe
+C:\Users\Serife\Desktop\SOLID\OpenClosed\bin\Debug\OpenClosed.pdb
